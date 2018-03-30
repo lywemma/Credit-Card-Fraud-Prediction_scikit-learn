@@ -35,6 +35,8 @@ Data Source: https://www.kaggle.com/mlg-ulb/creditcardfraud/data
 
    e. Neural Network
 
+***see "CreditCard_Fraud_Prediction_scikit-learn.ipynb"***
+
 ## Results
 
 Neaural Network has the highest Accuracy score 0.95. For fraud detection, we would prefer greater recall number, because it indicates that the model could identify most of the fraud. Neaural Network has recall as 0.91, meaning 91% of the Fraud could be identified. According to ROC curve and AUC, Neaural Network also has better performance.
