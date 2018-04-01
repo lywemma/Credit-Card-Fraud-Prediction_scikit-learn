@@ -35,7 +35,7 @@ Data Source: https://www.kaggle.com/mlg-ulb/creditcardfraud/data
 
    e. Neural Network
 
-***see "CreditCard_Fraud_Prediction_scikit-learn.ipynb"***
+***see "[CreditCard_Fraud_Prediction_scikit-learn.ipynb](https://github.com/lywemma/Prediction_scikit-learn/blob/master/CreditCard_Fraud_Prediction_scikit-learn.ipynb)"***
 
 ## Results
 
